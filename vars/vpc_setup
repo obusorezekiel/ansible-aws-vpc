@@ -20,3 +20,9 @@ zone2: us-east-2b
 zone3: us-east-2c
 
 state: present
+
+bastion_ami: ami-0a606d8395a538502
+MYIP: 197.210.85.154/32
+keyName: vprofile-key
+instanceType: t2.micro
+
