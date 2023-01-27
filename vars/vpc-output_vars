@@ -1,3 +1,4 @@
+region: us-east-2
 vpcid: vpc-07bab742ce0615a31
 pubsub1id: subnet-00fbd0ef509d0bc52
 pubsub2id: subnet-0267fbd8a5a036619
